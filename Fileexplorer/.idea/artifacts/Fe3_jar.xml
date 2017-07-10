@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Fe3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fe3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Fe3.jar">
+        <element id="module-output" name="Fe3" />
+      </element>
+    </root>
+  </artifact>
+</component>
